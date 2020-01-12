@@ -2,7 +2,7 @@
 
 namespace FizzBuzz_Challenge
 {
-    class Program
+    class FizzBuzzMain
     {
         static void Main(string[] args)
         {
