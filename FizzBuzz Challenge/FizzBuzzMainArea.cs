@@ -16,6 +16,12 @@ namespace FizzBuzz_Challenge
                 else if (i % 3 == 9)
                 {
                     Console.WriteLine("Fizz, ");
+                } else if (i % 5 == 0)
+                {
+                    Console.WriteLine("Buzz, ");
+                } else
+                {
+                    Console.WriteLine($"{i},");
                 }
             }
         }
