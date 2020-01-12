@@ -12,6 +12,11 @@ namespace FizzBuzz_Challenge
                 {
                     Console.WriteLine("FizzBuzz");
                 }
+
+                else if (i % 3 == 9)
+                {
+                    Console.WriteLine("Fizz, ");
+                }
             }
         }
     }
