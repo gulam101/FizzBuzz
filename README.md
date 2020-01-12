@@ -13,10 +13,10 @@ Credits
 
 ### What I Learnt:
 
-### Constraints
+### Constraints:
 
-### Development Changes
+### Development Changes:
 
-### Screenshots
+### Screenshots:
 
-### Credits
+### Credits:
