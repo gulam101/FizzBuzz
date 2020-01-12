@@ -13,7 +13,7 @@ namespace FizzBuzz_Challenge
                     Console.Write("FizzBuzz");
                 }
 
-                else if (i % 3 == 9)
+                else if (i % 3 == 0)
                 {
                     Console.Write("Fizz, ");
                 } else if (i % 5 == 0)
