@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\FizzBuzz\FizzBuzz Challenge\bin\Debug\FizzBuzz Challenge.exe.config
+D:\Projects\C# Projects\FizzBuzz\FizzBuzz Challenge\bin\Debug\FizzBuzz Challenge.exe
+D:\Projects\C# Projects\FizzBuzz\FizzBuzz Challenge\bin\Debug\FizzBuzz Challenge.pdb
+D:\Projects\C# Projects\FizzBuzz\FizzBuzz Challenge\obj\Debug\FizzBuzz Challenge.csprojAssemblyReference.cache
+D:\Projects\C# Projects\FizzBuzz\FizzBuzz Challenge\obj\Debug\FizzBuzz Challenge.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\FizzBuzz\FizzBuzz Challenge\obj\Debug\FizzBuzz Challenge.exe
+D:\Projects\C# Projects\FizzBuzz\FizzBuzz Challenge\obj\Debug\FizzBuzz Challenge.pdb
