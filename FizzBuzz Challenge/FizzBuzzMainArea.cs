@@ -10,18 +10,18 @@ namespace FizzBuzz_Challenge
             {
                 if(i% 3 == 0 && i % 5 == 0)
                 {
-                    Console.WriteLine("FizzBuzz");
+                    Console.Write("FizzBuzz");
                 }
 
                 else if (i % 3 == 9)
                 {
-                    Console.WriteLine("Fizz, ");
+                    Console.Write("Fizz, ");
                 } else if (i % 5 == 0)
                 {
-                    Console.WriteLine("Buzz, ");
+                    Console.Write("Buzz, ");
                 } else
                 {
-                    Console.WriteLine($"{i},");
+                    Console.Write($"{i},");
                 }
             }
         }
