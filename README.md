@@ -25,7 +25,7 @@
 
 ### Description:
 
-In this project I wanted to understand the FizzBuzz soultion in C#. I wanted to know how it worked within the code and to play around with so that I know if something breaks, I would know how to fix it.
+In this project I wanted to understand the FizzBuzz solution in C#. I wanted to know how it worked within the code and to play around with so that I know if something breaks, I would know how to fix it.
 
 ### What I Learnt:
 - Forloop
@@ -44,14 +44,14 @@ I followed a tutorial from YouTube, so I didn't have any problems.
 In this development phrase, I had completed the application but was finishing off the Readme.
 
 - Date: 1/12/20
-- Changes: Recreated Soultion to FizzBuzz
+- Changes: Recreated Solution to FizzBuzz
 
 I recreated this project and had no problems. I simply remembered how to create this project and because I have done it a few times before, I didn't have any problem doing it again.
 
 - Date: 13/07/19
-- Changes: Created Soultion to FizzBuzz
+- Changes: Created Solution to FizzBuzz
 
-This project was first created at this date, however I had a problem with my GitHub so I decided that I would remove this project and recreate it again.
+This project was first created at this date; however, I had a problem with my GitHub so I decided that I would remove this project and recreate it again.
 
 ### Resources
 - https://www.youtube.com/watch?v=VzwoCI5UQTI&t=453s (Video)
