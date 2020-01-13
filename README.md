@@ -1,7 +1,7 @@
 # FizzBuzz-Challenge
 
 Table of Contents:
-- Descriotion:
+- Description:
 - What I Learnt:
 - Constraints:
 - Development Changes
