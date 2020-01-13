@@ -8,6 +8,24 @@ Table of Contents:
 - Screenshots
 - Credits
 
+[Description](#Description)  
+<a name="Description"/>
+
+[What I learnt](#What_I_Learnt)  
+<a name="What_I_Learnt"/>
+
+[Constraints](#Constraints)  
+<a name="Constraints"/>
+
+[Development Changes](#Development_Changes)  
+<a name="Development_Changes"/>
+
+[Screenshots](#Screenshots)
+<a name="Screenshots"/>
+
+[Credits](#Credits)  
+<a name="Credits"/>
+
 
 ### Description:
 
