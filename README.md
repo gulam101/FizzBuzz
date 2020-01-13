@@ -1,12 +1,6 @@
 # FizzBuzz-Challenge
 
-Table of Contents:
-- Description:
-- What I Learnt:
-- Constraints:
-- Development Changes
-- Screenshots
-- Credits
+# Table of Contents:
 
 [Description](#Description)  
 <a name="Description"/>
