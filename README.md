@@ -26,7 +26,11 @@ I followed a tutorial from YouTube, so I didn't have any problems.
 
 Date: 1/13/20
 
+In this development phrase, I had completed the application but was finishing off the Readme.
+
 Date: 1/12/20
+
+I recreated this project and had no problems. I simply remembered how to create this project and because I have done it a few times before, I didn't have any problem doing it again.
 
 Date: 13/07/19
 
