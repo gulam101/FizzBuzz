@@ -24,6 +24,12 @@ I followed a tutorial from YouTube, so I didn't have any problems.
 
 ### Development Changes:
 
+Date: 1/13/20
+
+Date: 1/12/20
+
+Date: 13/07/19
+
 ### Resources
 
 ### Screenshots:
