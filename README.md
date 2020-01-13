@@ -17,6 +17,8 @@ Table of Contents:
 
 ### Development Changes:
 
+### Resources
+
 ### Screenshots:
 
 ### Credits:
