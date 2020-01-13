@@ -37,6 +37,8 @@ Date: 13/07/19
 This project was first created at this date, however I had a problem with my GitHub so I decided that I would remove this project and recreate it again.
 
 ### Resources
+- https://www.youtube.com/watch?v=VzwoCI5UQTI&t=453s (Video)
+- https://visualstudio.microsoft.com/ (IDE)
 
 ### Screenshots:
 
