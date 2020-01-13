@@ -20,6 +20,8 @@ Better understanding of C#
 
 ### Constraints:
 
+I followed a tutorial from YouTube, so I didn't have any problems.
+
 ### Development Changes:
 
 ### Resources
