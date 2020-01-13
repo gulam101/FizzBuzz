@@ -24,15 +24,18 @@ I followed a tutorial from YouTube, so I didn't have any problems.
 
 ### Development Changes:
 
-Date: 1/13/20
+- Date: 1/13/20
+- Changes: Readme
 
 In this development phrase, I had completed the application but was finishing off the Readme.
 
-Date: 1/12/20
+- Date: 1/12/20
+- Changes: Recreated Soultion to FizzBuzz
 
 I recreated this project and had no problems. I simply remembered how to create this project and because I have done it a few times before, I didn't have any problem doing it again.
 
-Date: 13/07/19
+- Date: 13/07/19
+- Changes: Created Soultion to FizzBuzz
 
 This project was first created at this date, however I had a problem with my GitHub so I decided that I would remove this project and recreate it again.
 
