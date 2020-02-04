@@ -66,6 +66,11 @@ I wanted to know how it worked within the code and to play around with so that I
 
 I followed a tutorial from YouTube, so I didn't have any problems.
 
+### Improvements:
+This is the improvement section. I order all improvements by an ID which I can refer to at any time and I give a description of what that improvement should be.
+
+- Improvement ID:
+
 ### Development Changes:
 
 - Date: 1/13/20
