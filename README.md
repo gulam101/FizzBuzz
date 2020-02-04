@@ -55,9 +55,7 @@ I wanted to know how it worked within the code and to play around with so that I
 - Step 2: Clone this project
 - Step 3: Once downloading is finished, open it up using Visual Studio
 - Step 4: Click run at the top and the application will run
-- Step 5: Input a base radius and height
-- Step 6: Click calculate and this will then calculate the volume of the cylinder
-
+- Step 5: It will show the user a console application and display the fizzbuzz
 
 ### What I Learnt:
 - Forloop
