@@ -46,6 +46,19 @@ In this project I wanted to understand the FizzBuzz solution in C#. FizzBuzz I c
 
 I wanted to know how it worked within the code and to play around with so that I know if something breaks, I would know how to fix it. I wanted to understand it and know how it works because this is a famous solution and I wanted to be able to explain to someone how this works.
 
+### Prerequisites:
+- Visual Studio 2017 or higher (2019 Recommended)
+- Windows 10 (OS)
+
+### Instructions:
+- Step 1: Download Visual Studio (If you don't have already)
+- Step 2: Clone this project
+- Step 3: Once downloading is finished, open it up using Visual Studio
+- Step 4: Click run at the top and the application will run
+- Step 5: Input a base radius and height
+- Step 6: Click calculate and this will then calculate the volume of the cylinder
+
+
 ### What I Learnt:
 - Forloop
 - Comments
