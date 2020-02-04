@@ -40,7 +40,11 @@
 
 ### Description:
 
-In this project I wanted to understand the FizzBuzz solution in C#. I wanted to know how it worked within the code and to play around with so that I know if something breaks, I would know how to fix it.
+A fizzbuzz program counts upwards from 1, outputting whole numbers except multiples of 3, which are replaced by "Fizz", and multiples of 5, replaced by "Buzz". Common multiples output the hybrid "FizzBuzz". To demonstrate: 1, 2, "Fizz", 4, "Buzz", "Fizz", 7, 8, "Fizz", "Buzz", 11, "Fizz", 13, 14, "Fizzbuzz", 16, ad infinitum.
+
+In this project I wanted to understand the FizzBuzz solution in C#. FizzBuzz I created this project a while ago but I wanted to create it again and update the repoistory so that it would show the correct informaiton. I had problems on the previous repository and decicded to start again.
+
+I wanted to know how it worked within the code and to play around with so that I know if something breaks, I would know how to fix it. I wanted to understand it and know how it works because this is a famous solution and I wanted to be able to explain to someone how this works.
 
 ### What I Learnt:
 - Forloop
