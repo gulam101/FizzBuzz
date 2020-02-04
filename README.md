@@ -40,7 +40,7 @@
 
 ### Description:
 
-A fizzbuzz program counts upwards from 1, outputting whole numbers except multiples of 3, which are replaced by "Fizz", and multiples of 5, replaced by "Buzz". Common multiples output the hybrid "FizzBuzz". To demonstrate: 1, 2, "Fizz", 4, "Buzz", "Fizz", 7, 8, "Fizz", "Buzz", 11, "Fizz", 13, 14, "Fizzbuzz", 16, ad infinitum.
+What is fizzbuzz? It's a program that counts upwards from 1 and then outputting whole numbers except multiples of 3, which are replaced by "Fizz", and multiples of 5, replaced by "Buzz". Common multiples outpu "FizzBuzz". For example: 1, 2, "Fizz", 4, "Buzz", "Fizz", 7, 8, "Fizz", "Buzz", 11, "Fizz", 13, 14, "Fizzbuzz", 16, ad infinitum.
 
 In this project I wanted to understand the FizzBuzz solution in C#. FizzBuzz I created this project a while ago but I wanted to create it again and update the repoistory so that it would show the correct informaiton. I had problems on the previous repository and decicded to start again.
 
