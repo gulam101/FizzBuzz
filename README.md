@@ -70,6 +70,7 @@ I followed a tutorial from YouTube, so I didn't have any problems.
 This is the improvement section. I order all improvements by an ID which I can refer to at any time and I give a description of what that improvement should be.
 
 - Improvement ID:
+- Description: 
 
 ### Development Changes:
 
