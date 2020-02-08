@@ -57,7 +57,7 @@ I wanted to know how it worked within the code and to play around with so that I
 - Step 4: Click run at the top and the application will run
 - Step 5: It will show the user a console application and display the fizzbuzz
 
-### What I Learnt:
+### What I Learnend:
 - Forloop
 - Comments
 - Better understanding of C#
