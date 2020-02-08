@@ -16,7 +16,7 @@
 [Planned Features](#Planned_Features)  
 <a name="Planned_Features"/>
 
-[What I learnt](#What_I_Learnt)  
+[What I learnt](#What_I_Learned)  
 <a name="What_I_Learnt"/>
 
 [Constraints](#Constraints)  
@@ -57,7 +57,7 @@ I wanted to know how it worked within the code and to play around with so that I
 - Step 4: Click run at the top and the application will run
 - Step 5: It will show the user a console application and display the fizzbuzz
 
-### What I Learnend:
+### What I Learned:
 - Forloop
 - Comments
 - Better understanding of C#
