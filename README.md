@@ -1,6 +1,6 @@
-# FizzBuzz-Challenge
+# FizzBuzz
 
-### Understanding the FizzBuzz Challenge using C# 
+### Understanding FizzBuzz using C# 
 
 # Table of Contents:
 
