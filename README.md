@@ -1,6 +1,6 @@
 # FizzBuzz
 
-### Understanding FizzBuzz using C# 
+## Understanding FizzBuzz - Console Application 
 
 # Table of Contents:
 
